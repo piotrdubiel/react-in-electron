@@ -1,0 +1,23 @@
+{
+  "name": "react-in-electron",
+  "version": "0.0.2",
+  "description": "Electron API wrapped in React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrdubiel/react-in-electron.git"
+  },
+  "keywords": [
+    "react",
+    "electron"
+  ],
+  "author": "Piotrek Dubiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piotrdubiel/react-in-electron/issues"
+  },
+  "homepage": "https://github.com/piotrdubiel/react-in-electron#readme"
+}
